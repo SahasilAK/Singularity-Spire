@@ -1,0 +1,37 @@
+{
+  "files": {
+    ".gitattributes": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b",
+    ".gitignore": "d23f9e48ae4d49a8dbcd9eaec6b4585a9dbb683556b43e2f258c0fdcbaaebead",
+    ".godot/.gdignore": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    ".godot/editor/filesystem_cache10": "863ee2b6905573256abec8780aef9ffa1e2f59359748b5bbfdecdd291cce2c96",
+    ".godot/editor/main.tscn-folding-3ad5c15c4f3250da0cc7c1af1770d85f.cfg": "2a6ea00109f698c6a7974dc37b4e24cf14432af5870a71ffd69f7d46ac9e9fe4",
+    ".godot/editor/project_metadata.cfg": "1ba80c5e0cd3bddd6481a7f9881d9ab633ab977a6e3f78b01222d797c661fd40",
+    ".godot/global_script_class_cache.cfg": "12369b378a46a8cfbdb845898ffe31f69bc3fbd8d325da7eec5e46774af9af14",
+    ".godot/uid_cache.bin": "8e3c9c27c67ea341dcde99449151df386ab75f3b14e889dcff88c375dc4c5e81",
+    ".kbignore": "ea8b6c4c09c90f3621f1fd5c0489008d7c8784ba0ea331df8aad8609aea4fbef",
+    "LICENSE": "7e8c4454faa220bae8d2ea8eb7df87c6c9a7b7627f0b9907d1076b9cd3944e27",
+    "README.md": "997f704eb2945030b57bdf12662ee4654da7260bcf1a665b63ba4a3e33eb77b6",
+    "project.godot": "256c86a6d412dc7824b8a51a5cabfaf2c5a11f928bf9f2d8f495e0352c64762c",
+    "scenes/main.tscn": "2d8ec347ec407d487f3591ef9ee2824db3c02e64f783edb0d7502821a2306263",
+    "scripts/main.gd": "5107343337149173dd688d04fcaa233729793b33c3251a49bcd1ee365d256ab2",
+    "scripts/main.gd.uid": "cc44a0e4761246f690396fb6187d1e33de6f700169cf45efde11f94c52607ab7",
+    "scripts/progression.gd": "5779618b0177fb8f703d569c2391f8d6f06a97c0795ef6509f2121ef11c561db",
+    "scripts/progression.gd.uid": "2b280053fe07f75f7ef484f1d58964fd03e1579b59b20b6f8272f59cf8c1be0a",
+    "scripts/targeting.gd": "b3dd1801355fde283de60127594c441d589d22c45a70ab4134df8138ba42a7e4",
+    "scripts/targeting.gd.uid": "8ac063a3fd596218a60d4fc738863fc99c6e2e953b36c73653f1f66560e18d7c",
+    "scripts/upgrade_math.gd": "0ca2b24be340437918e313c4d62312e166d2c5fc161ca984c8cc9390624b4ccb",
+    "scripts/upgrade_math.gd.uid": "db2c53afde5c65bd120891f4924ab0c8c9c97858eb6a49bb8d15bfc86b9c3991",
+    "scripts/wave_math.gd": "1d7bba3516c08b4dec6201d1d9662d2cb4d5a6bb14dd86853172f9ffb9397df9",
+    "scripts/wave_math.gd.uid": "be2d4ce8011a536a0bd65ce6a03634e19c12b693f22e0c74605d95d38217f9cd",
+    "tests/run_tests.gd": "6758d2f35455ae612f2b0fe837038f7ec003dc716977eb551b28af83b1de7c1c",
+    "tests/run_tests.gd.uid": "a7394af991b6756de8d2638b32cecc4892c0f9788bf6579644ceb70750b43cdb"
+  },
+  "folders": [
+    ".godot",
+    ".godot/editor",
+    ".godot/imported",
+    "scenes",
+    "scripts",
+    "tests"
+  ]
+}
